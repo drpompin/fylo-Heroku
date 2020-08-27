@@ -9,7 +9,7 @@ import {
     NavLinks,
     MobileNavRight,
     NavbarToggle
-} from "../pages/snippets";
+} from "../snippets";
 
 
 

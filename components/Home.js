@@ -31,7 +31,7 @@ import {
     ReviewName,
     ReviewTitle,
 
-} from "../pages/snippets";
+} from "../snippets";
 import Footer from "./Footer";
 
 

@@ -18,7 +18,7 @@ import {
     AddressDiv,
     FooterItemDiv,
     SocialMediaImg,
-} from "../pages/snippets";
+} from "../snippets";
 
 class Footer extends Component {
     render() {

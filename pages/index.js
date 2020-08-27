@@ -4,16 +4,6 @@ import HomePage from "../components/Home";
 
 
 
-
-
-
-
-
-
-
-
-
-
 class Index extends Component {
     render() {
         return (
