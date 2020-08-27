@@ -11,7 +11,7 @@ import {
     ItemImage,
     ItemHeading,
     ItemText
-} from "./snippets";
+} from "../snippets";
 
 export const AboutDiv = styled.div`
     margin: 0 10%;
